@@ -115,7 +115,7 @@ Open the Jenkins port and to find the authenticator token use the following line
   
    - SCM: Git
   
-   - Repository URL: https://github.com/boumster/ENSF400-Final-Project
+   - Repository URL: (https://github.com/SoftwareRafay/Ensf400project)
   
    - branch: main
   
